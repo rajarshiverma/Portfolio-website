@@ -7,7 +7,7 @@ import Experience from "./components/experience/Experience";
 import Portfolio from "./components/portfolio/Portfolio";
 import About from "./components/about/about";
 import Contact from "./components/contact/Contact";
-import Cursor from "./components/cursor/cursor";
+import Cursor from "./components/cursor/Cursor";
 import Homearrow from "./components/homearrow/Homearrow";
 
 
